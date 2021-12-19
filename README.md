@@ -1,0 +1,2 @@
+# Simple-Traffic-control-system-using-LED-and-servo-motor.
+In this basic project I have used an Arduino uno R3 and a servo motor and 3 LED's ( Red, Yellow and Green). Depending on the LED's action the servo motor will rotate at a defined angle. We can implement this project in Traffic light control system and also in Rail crossing gates. When the LED will remain RED the gate will remain close. To know more about my project simulate the code and follow the circuit diagram. 
